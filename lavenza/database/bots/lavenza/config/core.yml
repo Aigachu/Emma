@@ -1,0 +1,9 @@
+name: Lavenza
+commandPrefix: '&'
+locale: en
+talents:
+  - examples
+  - master
+clients:
+  - Discord
+  - Twitch

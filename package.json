@@ -1,0 +1,22 @@
+{
+  "name": "estrella",
+  "version": "0.0.1",
+  "description": "Collection of multi-platform chatbots built with the Lavenza framework!",
+  "main": "estrella.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aigachu/Estrella"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aigachu/Estrella.git)/issues"
+  },
+  "homepage": "https://github.com/Aigachu/Estrella.git)#readme",
+  "dependencies": {
+    "lavenza": "^3.0.0-rc.12"
+  }
+}

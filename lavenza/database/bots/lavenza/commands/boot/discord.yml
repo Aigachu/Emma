@@ -1,0 +1,12 @@
+authorization:
+  blacklist:
+    guilds: []
+    channels: []
+    users: []
+  whitelist:
+    guilds: []
+    channels: []
+    users: []
+cooldown:
+  global: 0
+  user: 0
