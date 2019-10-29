@@ -55,7 +55,7 @@ echo "Re-install node libraries."
 echo "--------------------------------------"
 #echo "cd apps/Estrella/app; rm -rf node_modules;"
 #ssh aigachu@aigachu.com 'cd apps/Estrella/app; rm -rf node_modules;'
-echo "cd apps/Estrella/app; npm install;"
+echo "cd apps/Estrella; npm install;"
 ssh aigachu@aigachu.com 'cd apps/Estrella; npm install;'
 echo "--------------------------------------"
 
