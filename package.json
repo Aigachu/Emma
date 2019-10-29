@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/Aigachu/Estrella.git)#readme",
   "dependencies": {
-    "lavenza": "^3.0.4"
+    "lavenza": "^3.0.6"
   }
 }

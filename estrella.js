@@ -5,6 +5,5 @@ const Lavenza = require('lavenza');
 // This will read everything found in your lavenza installation folder and do what's necessary to run your bots.
 // Initialize must always run before summoning.
 Lavenza.initialize().then(() => {
-    Lavenza.summon().then(() => {
-    });
+    Lavenza.summon().catch(error => console.log(error));
 });
