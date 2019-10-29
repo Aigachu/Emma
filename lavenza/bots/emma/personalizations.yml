@@ -1,5 +1,5 @@
 '::PING_RESPONSE':
-  default: 'Pong! Hello there. :)'
+  default: Pong!
   personalizations:
     - Greetings.
     - Hello.
