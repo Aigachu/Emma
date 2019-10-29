@@ -56,7 +56,7 @@ echo "--------------------------------------"
 #echo "cd apps/Estrella/app; rm -rf node_modules;"
 #ssh aigachu@aigachu.com 'cd apps/Estrella/app; rm -rf node_modules;'
 echo "cd apps/Estrella/app; npm install;"
-ssh aigachu@aigachu.com 'cd apps/Estrella/app; npm install;'
+ssh aigachu@aigachu.com 'cd apps/Estrella; npm install;'
 echo "--------------------------------------"
 
 # Copy local bots folder to server.
