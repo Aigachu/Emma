@@ -1,8 +1,0 @@
-name: Example
-commandPrefix: °
-locale: en
-talents:
-  - examples
-clients:
-  - Discord
-  - Twitch

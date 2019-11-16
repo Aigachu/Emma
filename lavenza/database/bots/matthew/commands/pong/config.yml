@@ -1,0 +1,16 @@
+name: Pong Command
+description: Command that simply orders the bot to say "Ping!"
+class: Pong
+key: pong
+aliases:
+  - pongu
+  - pongo
+cooldown:
+  global: 0
+  user: 0
+authorization:
+  enabledInDirectMessages: true
+  accessEminence: None
+clients: '*'
+directory: >-
+  /Users/kserebour/Personal/Estrella/node_modules/lavenza/core/talents/examples/hooks/Commands/Pong

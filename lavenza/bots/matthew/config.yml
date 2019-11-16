@@ -3,7 +3,7 @@ name: 'Example'
 
 # Main command prefix.
 # The command prefix can be overridden per client. A default one is necessary, though.
-commandPrefix: '!'
+commandPrefix: '*'
 
 # Default Locale.
 # Set the default language the bot will speak in.

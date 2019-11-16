@@ -1,0 +1,16 @@
+name: Boot Command
+description: Boot a bot through the Master bot.
+active: false
+class: Boot
+key: boot
+aliases:
+  - activate
+cooldown:
+  global: 0
+  user: 0
+authorization:
+  enabledInDirectMessages: true
+  accessEminence: Joker
+clients: '*'
+directory: >-
+  /Users/kserebour/Personal/Estrella/node_modules/lavenza/core/talents/master/hooks/Commands/Boot

@@ -1,0 +1,10 @@
+# Ignore Sensitive Files.
+bots/emma/.env
+
+# Ignore Database.
+database
+!database/.gitkeep
+
+# Ignore Lang.
+lang
+!lang/.gitkeep
