@@ -1,8 +1,0 @@
-name: Example
-commandPrefix: '*'
-locale: en
-talents:
-  - examples
-  - master
-clients:
-  - Discord

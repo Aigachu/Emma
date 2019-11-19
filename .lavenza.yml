@@ -24,18 +24,19 @@ config:
     # Master Bot
     # The master bot is going to be your main bot.
     # This bot will act as a superadmin for the framework and have more commands.
-    master: matthew
+    master: lavenza
 
     # Auto-Boot bots.
     # By default, only the Master bot above is booted during initialization of Lavenza.
     # Here you can configure additional bots that will be booted alongside the master bot.
     # Enter their machine names in an array here.
-    autoboot: []
+    autoboot:
+      - emma
 
 # In some cases, Lavenza can connect to exterior services if you choose to connect them.
 # This will all be managed here.
-services:
-  # Google Services.
+features:
+  # Google Features.
   google:
     # Google Translate Cloud API
     # If desired, Google Translate can be activated in Lavenza. As a result, when you use translation functions in your
