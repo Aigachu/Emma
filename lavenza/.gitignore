@@ -2,9 +2,9 @@
 bots/emma/.env
 
 # Ignore Database.
-database
+database/**/*
 !database/.gitkeep
 
 # Ignore Lang.
-lang
+lang/**/*
 !lang/.gitkeep
