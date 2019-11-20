@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "allowJs": true,
+    "target": "es6",
+    "module": "commonjs",
+    "lib": [ "es2018" ],
+    "skipLibCheck": true,
+    "resolveJsonModule": true
+  },
+  "include": [
+    "./lavenza/**/*"
+  ]
+}
