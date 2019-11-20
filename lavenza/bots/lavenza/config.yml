@@ -14,6 +14,8 @@ locale: 'en'
 # You must enter the exact name of the directory of the talent.
 # Talents are like bundles of features that can be used by the bot.
 talents:
+  - listeners
+  - commander
   - examples
 
 # Clients
