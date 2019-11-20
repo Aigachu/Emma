@@ -1,5 +1,5 @@
 # Activity to set to the bot when it's running.
-activity: 'Version 3! Wow!'
+activity: '[V4] - npmjs.com/package/lavenza'
 
 # Command Prefix override for Discord.
 # commandPrefix: '!'

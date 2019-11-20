@@ -1,5 +1,5 @@
 # Activity to set to the bot when it's running.
-activity: "It's good to be back!"
+activity: "Hello world. :)"
 
 # Command Prefix override for Discord.
 # commandPrefix: '!'
